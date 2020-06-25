@@ -7,7 +7,7 @@
 	
 	
 	#source the env
-	source setenv
+	#source setenv
 	echo $ACE_ROOT
 	
 	#install ACE_TAO
